@@ -742,6 +742,7 @@ label {
     .header .nav-toggle {
         display: flex;
         padding-right: 1px;
+        margin-right: 4px;
     }
 
     .header .nav {
